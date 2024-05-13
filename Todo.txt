@@ -1,0 +1,4 @@
+Add pictures
+move picture text to the center
+Different font for perfect pizza
+Have the title in the center
